@@ -2,6 +2,8 @@
 public class Calculations {
 	
 	int z;
+
+        int a;
 	
 	public void addition(int x,int y) {
 		
